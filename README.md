@@ -1,7 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C03&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Brayan+Chavez+%F0%9F%91%8B;Full+Stack+Java+Developer;Spring+Boot+%2B+Angular+Expert;Entusiasta+de+Inteligencia+Artificial" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Brayan+Chavez+%F0%9F%91%8B;Full+Stack+Java+Developer;Spring+Boot+%2B+Angular+Expert;Entusiasta+de+Inteligencia+Artificial" alt="Typing SVG" />
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Brayan1262&label=Visitas+al+Perfil&color=FF0000&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <p align="center">
@@ -28,5 +30,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brayan1262&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan1262&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brayan1262&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
