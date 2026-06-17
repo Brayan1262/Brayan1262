@@ -12,6 +12,14 @@
 
 ---
 
+<h3 align="center">👨‍💻 Sobre mí</h3>
+
+<p align="center">
+  💻Full Stack & Cloud Engineer | Java, React/Angular & Kubernetes. Arquitecto de alto rendimiento: Event-Driven Systems, Service Mesh (Istio) e integraciones IA✨ 
+</p>
+
+---
+
 <h3 align="center">🛠️ Mi Stack Tecnológico Completo</h3>
 <p align="center">
   <!-- Lenguajes Base -->
